@@ -1,3 +1,1 @@
-# keyWordCounter
-
-Reads dataset from Cassanda and counts occurences of keywords in tweets using Spark
+Reads dataset from Cassanda and gathers occurences of keywords in tweets using Spark
