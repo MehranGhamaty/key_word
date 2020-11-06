@@ -1,4 +1,4 @@
-name := "Simple Project"
+name := "My Project"
 
 version := "1.0"
 
