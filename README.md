@@ -1,1 +1,1 @@
-A basic implementation to run a Spark job. 
+Gathers tweets from a file and aggregates statistics.
